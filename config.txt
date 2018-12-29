@@ -1,6 +1,6 @@
-token= NTI1MDA4Njk4NjI4NzY3NzUz.DvwYEw.LSj376Yw1MrpgmONfa93C_D4YXw
-owner= 498991974393708554
-prefix= 4
-game= Zero Server
+token= NTI4NTU1MjYwMTY4NjM0Mzg4.DwkNuQ.hVTpmeN93hBRD46U9cdmsxfDjo4
+owner= 526864822348808193
+prefix= 3
+game=3help | by:ezookik
 stayinchannel= true
 songinstatus= true
